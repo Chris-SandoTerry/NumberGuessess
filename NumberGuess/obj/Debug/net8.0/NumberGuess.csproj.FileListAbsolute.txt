@@ -1,0 +1,14 @@
+/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/NumberGuess/obj/Debug/net8.0/NumberGuess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/NumberGuess/obj/Debug/net8.0/NumberGuess.AssemblyInfoInputs.cache
+/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/NumberGuess/obj/Debug/net8.0/NumberGuess.AssemblyInfo.cs
+/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/NumberGuess/obj/Debug/net8.0/NumberGuess.csproj.CoreCompileInputs.cache
+/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/NumberGuess/bin/Debug/net8.0/NumberGuess
+/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/NumberGuess/bin/Debug/net8.0/NumberGuess.deps.json
+/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/NumberGuess/bin/Debug/net8.0/NumberGuess.runtimeconfig.json
+/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/NumberGuess/bin/Debug/net8.0/NumberGuess.dll
+/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/NumberGuess/bin/Debug/net8.0/NumberGuess.pdb
+/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/NumberGuess/obj/Debug/net8.0/NumberGuess.dll
+/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/NumberGuess/obj/Debug/net8.0/refint/NumberGuess.dll
+/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/NumberGuess/obj/Debug/net8.0/NumberGuess.pdb
+/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/NumberGuess/obj/Debug/net8.0/NumberGuess.genruntimeconfig.cache
+/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/NumberGuess/obj/Debug/net8.0/ref/NumberGuess.dll

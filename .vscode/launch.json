@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess",
+      "program": "/Users/chrisandoterry/Desktop/Projects/Fun/NumberGuessess/build/Debug/outDebug"
+    }
+  ]
+}
